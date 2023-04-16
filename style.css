@@ -1,0 +1,10 @@
+form {
+    padding: 20px;
+}
+
+form div {
+    margin: 10px;
+}
+input,textarea {
+    width:100%
+}
